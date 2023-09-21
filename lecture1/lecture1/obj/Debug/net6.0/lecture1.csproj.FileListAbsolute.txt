@@ -1,0 +1,14 @@
+C:\Users\petr.harapat\source\repos\lecture1\lecture1\bin\Debug\net6.0\lecture1.exe
+C:\Users\petr.harapat\source\repos\lecture1\lecture1\bin\Debug\net6.0\lecture1.deps.json
+C:\Users\petr.harapat\source\repos\lecture1\lecture1\bin\Debug\net6.0\lecture1.runtimeconfig.json
+C:\Users\petr.harapat\source\repos\lecture1\lecture1\bin\Debug\net6.0\lecture1.dll
+C:\Users\petr.harapat\source\repos\lecture1\lecture1\bin\Debug\net6.0\lecture1.pdb
+C:\Users\petr.harapat\source\repos\lecture1\lecture1\obj\Debug\net6.0\lecture1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petr.harapat\source\repos\lecture1\lecture1\obj\Debug\net6.0\lecture1.AssemblyInfoInputs.cache
+C:\Users\petr.harapat\source\repos\lecture1\lecture1\obj\Debug\net6.0\lecture1.AssemblyInfo.cs
+C:\Users\petr.harapat\source\repos\lecture1\lecture1\obj\Debug\net6.0\lecture1.csproj.CoreCompileInputs.cache
+C:\Users\petr.harapat\source\repos\lecture1\lecture1\obj\Debug\net6.0\lecture1.dll
+C:\Users\petr.harapat\source\repos\lecture1\lecture1\obj\Debug\net6.0\refint\lecture1.dll
+C:\Users\petr.harapat\source\repos\lecture1\lecture1\obj\Debug\net6.0\lecture1.pdb
+C:\Users\petr.harapat\source\repos\lecture1\lecture1\obj\Debug\net6.0\lecture1.genruntimeconfig.cache
+C:\Users\petr.harapat\source\repos\lecture1\lecture1\obj\Debug\net6.0\ref\lecture1.dll
