@@ -1,0 +1,14 @@
+C:\Users\Petr Harapát\source\repos\chatgpt kalkulacka2\chatgpt kalkulacka2\bin\Debug\net6.0\chatgpt kalkulacka2.exe
+C:\Users\Petr Harapát\source\repos\chatgpt kalkulacka2\chatgpt kalkulacka2\bin\Debug\net6.0\chatgpt kalkulacka2.deps.json
+C:\Users\Petr Harapát\source\repos\chatgpt kalkulacka2\chatgpt kalkulacka2\bin\Debug\net6.0\chatgpt kalkulacka2.runtimeconfig.json
+C:\Users\Petr Harapát\source\repos\chatgpt kalkulacka2\chatgpt kalkulacka2\bin\Debug\net6.0\chatgpt kalkulacka2.dll
+C:\Users\Petr Harapát\source\repos\chatgpt kalkulacka2\chatgpt kalkulacka2\bin\Debug\net6.0\chatgpt kalkulacka2.pdb
+C:\Users\Petr Harapát\source\repos\chatgpt kalkulacka2\chatgpt kalkulacka2\obj\Debug\net6.0\chatgpt kalkulacka2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petr Harapát\source\repos\chatgpt kalkulacka2\chatgpt kalkulacka2\obj\Debug\net6.0\chatgpt kalkulacka2.AssemblyInfoInputs.cache
+C:\Users\Petr Harapát\source\repos\chatgpt kalkulacka2\chatgpt kalkulacka2\obj\Debug\net6.0\chatgpt kalkulacka2.AssemblyInfo.cs
+C:\Users\Petr Harapát\source\repos\chatgpt kalkulacka2\chatgpt kalkulacka2\obj\Debug\net6.0\chatgpt kalkulacka2.csproj.CoreCompileInputs.cache
+C:\Users\Petr Harapát\source\repos\chatgpt kalkulacka2\chatgpt kalkulacka2\obj\Debug\net6.0\chatgpt kalkulacka2.dll
+C:\Users\Petr Harapát\source\repos\chatgpt kalkulacka2\chatgpt kalkulacka2\obj\Debug\net6.0\refint\chatgpt kalkulacka2.dll
+C:\Users\Petr Harapát\source\repos\chatgpt kalkulacka2\chatgpt kalkulacka2\obj\Debug\net6.0\chatgpt kalkulacka2.pdb
+C:\Users\Petr Harapát\source\repos\chatgpt kalkulacka2\chatgpt kalkulacka2\obj\Debug\net6.0\chatgpt kalkulacka2.genruntimeconfig.cache
+C:\Users\Petr Harapát\source\repos\chatgpt kalkulacka2\chatgpt kalkulacka2\obj\Debug\net6.0\ref\chatgpt kalkulacka2.dll
