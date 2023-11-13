@@ -1,0 +1,14 @@
+C:\Users\Petr Harapát\source\repos\skola.programko\kvadratická rovnice1\kvadratická rovnice1\bin\Debug\net6.0\kvadratická rovnice1.exe
+C:\Users\Petr Harapát\Source\Repos\skola.programko\kvadratická rovnice1\kvadratická rovnice1\bin\Debug\net6.0\kvadratická rovnice1.deps.json
+C:\Users\Petr Harapát\Source\Repos\skola.programko\kvadratická rovnice1\kvadratická rovnice1\bin\Debug\net6.0\kvadratická rovnice1.runtimeconfig.json
+C:\Users\Petr Harapát\source\repos\skola.programko\kvadratická rovnice1\kvadratická rovnice1\bin\Debug\net6.0\kvadratická rovnice1.dll
+C:\Users\Petr Harapát\source\repos\skola.programko\kvadratická rovnice1\kvadratická rovnice1\bin\Debug\net6.0\kvadratická rovnice1.pdb
+C:\Users\Petr Harapát\source\repos\skola.programko\kvadratická rovnice1\kvadratická rovnice1\obj\Debug\net6.0\kvadratická rovnice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petr Harapát\source\repos\skola.programko\kvadratická rovnice1\kvadratická rovnice1\obj\Debug\net6.0\kvadratická rovnice1.AssemblyInfoInputs.cache
+C:\Users\Petr Harapát\source\repos\skola.programko\kvadratická rovnice1\kvadratická rovnice1\obj\Debug\net6.0\kvadratická rovnice1.AssemblyInfo.cs
+C:\Users\Petr Harapát\source\repos\skola.programko\kvadratická rovnice1\kvadratická rovnice1\obj\Debug\net6.0\kvadratická rovnice1.csproj.CoreCompileInputs.cache
+C:\Users\Petr Harapát\source\repos\skola.programko\kvadratická rovnice1\kvadratická rovnice1\obj\Debug\net6.0\kvadratická rovnice1.dll
+C:\Users\Petr Harapát\source\repos\skola.programko\kvadratická rovnice1\kvadratická rovnice1\obj\Debug\net6.0\refint\kvadratická rovnice1.dll
+C:\Users\Petr Harapát\source\repos\skola.programko\kvadratická rovnice1\kvadratická rovnice1\obj\Debug\net6.0\kvadratická rovnice1.pdb
+C:\Users\Petr Harapát\Source\Repos\skola.programko\kvadratická rovnice1\kvadratická rovnice1\obj\Debug\net6.0\kvadratická rovnice1.genruntimeconfig.cache
+C:\Users\Petr Harapát\Source\Repos\skola.programko\kvadratická rovnice1\kvadratická rovnice1\obj\Debug\net6.0\ref\kvadratická rovnice1.dll
