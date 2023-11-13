@@ -1,57 +1,58 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System;
+﻿
+using System.ComponentModel.Design.Serialization;
 
-class QuadraticEquationSolver
+Console.WriteLine("řešení kvadratické rovnice");
+double koeficienty(string koef)
 {
-    static void Main()
+    while (true)
     {
-        Console.WriteLine("Quadratic Equation Solver");
-        Console.WriteLine("Enter the coefficients of the quadratic equation (ax^2 + bx + c = 0)");
-
-        // Prompt the user to enter coefficients a, b, and c
-        while (true) { 
-        Console.Write("Enter coefficient 'a': ");
-        double a = double.Parse(Console.ReadLine());
-        if(a == 0)
+    Console.WriteLine("Zadej koeficient "+koef);
+    string cislo =Console.ReadLine();
+    double.TryParse(cislo, out double cislo1);
+        if (double.TryParse(cislo, out cislo1))
         {
-                Console.Write("Nedávej nulu");
-
-                continue;
-        }
-        Console.Write("Enter coefficient 'b': ");
-        double b = double.Parse(Console.ReadLine());
-
-        Console.Write("Enter coefficient 'c': ");
-        double c = double.Parse(Console.ReadLine());
-        
-        // Calculate the discriminant (b^2 - 4ac)
-        double discriminant = b * b - 4 * a * c;
-
-        // Check the discriminant to determine the number of roots
-
-        if (discriminant > 0)
-        {
-            // Two real and distinct roots
-            double root1 = (-b + Math.Sqrt(discriminant)) / (2 * a);
-            double root2 = (-b - Math.Sqrt(discriminant)) / (2 * a);
-
-            Console.WriteLine($"Root 1: {root1}");
-            Console.WriteLine($"Root 2: {root2}");
-                break;
-        }
-        else if (discriminant == 0)
-        {
-            // One real root (repeated root)
-            double root = -b / (2 * a);
-            Console.WriteLine($"Root: {root}");
-                break;
+        return cislo1;
         }
         else
         {
-            Console.Write("rovnice nemá řešení ");
-                break;
-         }
+        Console.WriteLine("toto není číslo");
+        }
+        
+
+    }
+    
+}
+
+double a = koeficienty("a");
+double b = koeficienty("b");
+double c = koeficienty("c");
+
+void reseni()
+{
+    Console.WriteLine(a+"x2+" + b+"x+" + c); 
+    double diskriminant= b * b - 4 * a * c;
+    if (diskriminant > 0)
+    {
+     double root1 = (-b + Math.Sqrt(diskriminant)) / (2 * a);
+     double root2 = (-b - Math.Sqrt(diskriminant)) / (2 * a);
+    Console.WriteLine("rovnice má 2 kořeny "+root1 + " a "+root2);
+            ;
+        }
+    else if(diskriminant==0)
+        {
+        double root3 = -b / (2 * a);
+        Console.WriteLine("rovnice má 1 kořen " + root3);
 
         }
+        else
+        {
+         Console.WriteLine("rovnice nemá řešeni");
+
+        
     }
 }
+reseni();
+
+void pocitanix()
+
+
