@@ -27,6 +27,9 @@ double a = koeficienty("a");
 double b = koeficienty("b");
 double c = koeficienty("c");
 
+
+reseni();
+
 void reseni()
 {
     Console.WriteLine(a+"x2+" + b+"x+" + c); 
@@ -35,24 +38,49 @@ void reseni()
     {
      double root1 = (-b + Math.Sqrt(diskriminant)) / (2 * a);
      double root2 = (-b - Math.Sqrt(diskriminant)) / (2 * a);
-    Console.WriteLine("rovnice má 2 kořeny "+root1 + " a "+root2);
+    Console.WriteLine("kvadratická rovnice má 2 kořeny " + root1 + " a "+root2);
             ;
         }
     else if(diskriminant==0)
         {
         double root3 = -b / (2 * a);
-        Console.WriteLine("rovnice má 1 kořen " + root3);
+        Console.WriteLine("kvadratická rovnice má 1 kořen " + root3);
 
         }
         else
         {
-         Console.WriteLine("rovnice nemá řešeni");
+         Console.WriteLine("kvadratická rovnice nemá řešeni");
 
         
     }
 }
-reseni();
+
+pokracovat();
+void pokracovat()
+{
+    while (true) { 
+    Console.WriteLine("Chcete dosadit něco za x? a=ano, n=ne");
+    string pokr = Console.ReadLine();
+    
+
+    if (pokr == "a")
+    {
+        pocitanix();
+            
+    }
+    else if (pokr == "n")
+    {
+            break;
+        }
+    }
+}
 
 void pocitanix()
+{
+    double x = koeficienty("x");
+    Console.Write(a+"x2+"+b+"x+"+c+"=");
+    double vypocetx =a*x*x+b*x+c;
+    Console.WriteLine(vypocetx + "=");
+}
 
-
+    
