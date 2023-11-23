@@ -1,0 +1,14 @@
+C:\Users\petr.harapat\source\repos\tvaryukol\tvaryukol\obj\Debug\net6.0\tvaryukol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petr.harapat\source\repos\tvaryukol\tvaryukol\obj\Debug\net6.0\tvaryukol.AssemblyInfoInputs.cache
+C:\Users\petr.harapat\source\repos\tvaryukol\tvaryukol\obj\Debug\net6.0\tvaryukol.AssemblyInfo.cs
+C:\Users\petr.harapat\source\repos\tvaryukol\tvaryukol\obj\Debug\net6.0\tvaryukol.csproj.CoreCompileInputs.cache
+C:\Users\petr.harapat\source\repos\tvaryukol\tvaryukol\bin\Debug\net6.0\tvaryukol.exe
+C:\Users\petr.harapat\source\repos\tvaryukol\tvaryukol\bin\Debug\net6.0\tvaryukol.deps.json
+C:\Users\petr.harapat\source\repos\tvaryukol\tvaryukol\bin\Debug\net6.0\tvaryukol.runtimeconfig.json
+C:\Users\petr.harapat\source\repos\tvaryukol\tvaryukol\bin\Debug\net6.0\tvaryukol.dll
+C:\Users\petr.harapat\source\repos\tvaryukol\tvaryukol\bin\Debug\net6.0\tvaryukol.pdb
+C:\Users\petr.harapat\source\repos\tvaryukol\tvaryukol\obj\Debug\net6.0\tvaryukol.dll
+C:\Users\petr.harapat\source\repos\tvaryukol\tvaryukol\obj\Debug\net6.0\refint\tvaryukol.dll
+C:\Users\petr.harapat\source\repos\tvaryukol\tvaryukol\obj\Debug\net6.0\tvaryukol.pdb
+C:\Users\petr.harapat\source\repos\tvaryukol\tvaryukol\obj\Debug\net6.0\tvaryukol.genruntimeconfig.cache
+C:\Users\petr.harapat\source\repos\tvaryukol\tvaryukol\obj\Debug\net6.0\ref\tvaryukol.dll
