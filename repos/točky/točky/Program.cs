@@ -30,7 +30,7 @@ while (konto > 0)
 
     void vklad()
     {
-        Console.WriteLine("kolik chceš vložit?");
+        Console.WriteLine("kolik chceš vložit?  ");
         int vlozeno;
         bool x;
         do
