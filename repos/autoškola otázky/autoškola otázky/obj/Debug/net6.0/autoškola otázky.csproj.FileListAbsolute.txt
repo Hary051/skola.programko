@@ -1,0 +1,15 @@
+C:\Users\Petr Harapát\source\repos\autoškola otázky\autoškola otázky\bin\Debug\net6.0\autoškola otázky.exe
+C:\Users\Petr Harapát\source\repos\autoškola otázky\autoškola otázky\bin\Debug\net6.0\autoškola otázky.deps.json
+C:\Users\Petr Harapát\source\repos\autoškola otázky\autoškola otázky\bin\Debug\net6.0\autoškola otázky.runtimeconfig.json
+C:\Users\Petr Harapát\source\repos\autoškola otázky\autoškola otázky\bin\Debug\net6.0\autoškola otázky.dll
+C:\Users\Petr Harapát\source\repos\autoškola otázky\autoškola otázky\bin\Debug\net6.0\autoškola otázky.pdb
+C:\Users\Petr Harapát\source\repos\autoškola otázky\autoškola otázky\obj\Debug\net6.0\autoškola otázky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petr Harapát\source\repos\autoškola otázky\autoškola otázky\obj\Debug\net6.0\autoškola otázky.AssemblyInfoInputs.cache
+C:\Users\Petr Harapát\source\repos\autoškola otázky\autoškola otázky\obj\Debug\net6.0\autoškola otázky.AssemblyInfo.cs
+C:\Users\Petr Harapát\source\repos\autoškola otázky\autoškola otázky\obj\Debug\net6.0\autoškola otázky.csproj.CoreCompileInputs.cache
+C:\Users\Petr Harapát\source\repos\autoškola otázky\autoškola otázky\obj\Debug\net6.0\autoškola otázky.dll
+C:\Users\Petr Harapát\source\repos\autoškola otázky\autoškola otázky\obj\Debug\net6.0\refint\autoškola otázky.dll
+C:\Users\Petr Harapát\source\repos\autoškola otázky\autoškola otázky\obj\Debug\net6.0\autoškola otázky.pdb
+C:\Users\Petr Harapát\source\repos\autoškola otázky\autoškola otázky\obj\Debug\net6.0\autoškola otázky.genruntimeconfig.cache
+C:\Users\Petr Harapát\source\repos\autoškola otázky\autoškola otázky\obj\Debug\net6.0\ref\autoškola otázky.dll
+C:\Users\Petr Harapát\source\repos\autoškola otázky\autoškola otázky\bin\Debug\net6.0\questions.data

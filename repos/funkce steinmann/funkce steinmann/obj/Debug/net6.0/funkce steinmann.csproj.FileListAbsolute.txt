@@ -1,0 +1,14 @@
+C:\Users\Petr Harapát\source\repos\funkce steinmann\funkce steinmann\bin\Debug\net6.0\funkce steinmann.exe
+C:\Users\Petr Harapát\source\repos\funkce steinmann\funkce steinmann\bin\Debug\net6.0\funkce steinmann.deps.json
+C:\Users\Petr Harapát\source\repos\funkce steinmann\funkce steinmann\bin\Debug\net6.0\funkce steinmann.runtimeconfig.json
+C:\Users\Petr Harapát\source\repos\funkce steinmann\funkce steinmann\bin\Debug\net6.0\funkce steinmann.dll
+C:\Users\Petr Harapát\source\repos\funkce steinmann\funkce steinmann\bin\Debug\net6.0\funkce steinmann.pdb
+C:\Users\Petr Harapát\source\repos\funkce steinmann\funkce steinmann\obj\Debug\net6.0\funkce steinmann.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petr Harapát\source\repos\funkce steinmann\funkce steinmann\obj\Debug\net6.0\funkce steinmann.AssemblyInfoInputs.cache
+C:\Users\Petr Harapát\source\repos\funkce steinmann\funkce steinmann\obj\Debug\net6.0\funkce steinmann.AssemblyInfo.cs
+C:\Users\Petr Harapát\source\repos\funkce steinmann\funkce steinmann\obj\Debug\net6.0\funkce steinmann.csproj.CoreCompileInputs.cache
+C:\Users\Petr Harapát\source\repos\funkce steinmann\funkce steinmann\obj\Debug\net6.0\funkce steinmann.dll
+C:\Users\Petr Harapát\source\repos\funkce steinmann\funkce steinmann\obj\Debug\net6.0\refint\funkce steinmann.dll
+C:\Users\Petr Harapát\source\repos\funkce steinmann\funkce steinmann\obj\Debug\net6.0\funkce steinmann.pdb
+C:\Users\Petr Harapát\source\repos\funkce steinmann\funkce steinmann\obj\Debug\net6.0\funkce steinmann.genruntimeconfig.cache
+C:\Users\Petr Harapát\source\repos\funkce steinmann\funkce steinmann\obj\Debug\net6.0\ref\funkce steinmann.dll

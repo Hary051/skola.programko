@@ -1,0 +1,14 @@
+C:\Users\Petr Harapát\source\repos\točky\točky\bin\Debug\net6.0\točky.exe
+C:\Users\Petr Harapát\source\repos\točky\točky\bin\Debug\net6.0\točky.deps.json
+C:\Users\Petr Harapát\source\repos\točky\točky\bin\Debug\net6.0\točky.runtimeconfig.json
+C:\Users\Petr Harapát\source\repos\točky\točky\bin\Debug\net6.0\točky.dll
+C:\Users\Petr Harapát\source\repos\točky\točky\bin\Debug\net6.0\točky.pdb
+C:\Users\Petr Harapát\source\repos\točky\točky\obj\Debug\net6.0\točky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petr Harapát\source\repos\točky\točky\obj\Debug\net6.0\točky.AssemblyInfoInputs.cache
+C:\Users\Petr Harapát\source\repos\točky\točky\obj\Debug\net6.0\točky.AssemblyInfo.cs
+C:\Users\Petr Harapát\source\repos\točky\točky\obj\Debug\net6.0\točky.csproj.CoreCompileInputs.cache
+C:\Users\Petr Harapát\source\repos\točky\točky\obj\Debug\net6.0\točky.dll
+C:\Users\Petr Harapát\source\repos\točky\točky\obj\Debug\net6.0\refint\točky.dll
+C:\Users\Petr Harapát\source\repos\točky\točky\obj\Debug\net6.0\točky.pdb
+C:\Users\Petr Harapát\source\repos\točky\točky\obj\Debug\net6.0\točky.genruntimeconfig.cache
+C:\Users\Petr Harapát\source\repos\točky\točky\obj\Debug\net6.0\ref\točky.dll
