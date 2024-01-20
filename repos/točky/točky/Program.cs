@@ -11,7 +11,7 @@ int vysesazk = 1;
 while (konto > 0)
 {
     string akce = Console.ReadLine();
-
+    pppp
     switch (akce)
     {
         case "1":
