@@ -1,0 +1,14 @@
+C:\Users\Petr Harapát\source\repos\produkty úkol\produkty úkol\bin\Debug\net6.0\produkty úkol.exe
+C:\Users\Petr Harapát\source\repos\produkty úkol\produkty úkol\bin\Debug\net6.0\produkty úkol.deps.json
+C:\Users\Petr Harapát\source\repos\produkty úkol\produkty úkol\bin\Debug\net6.0\produkty úkol.runtimeconfig.json
+C:\Users\Petr Harapát\source\repos\produkty úkol\produkty úkol\bin\Debug\net6.0\produkty úkol.dll
+C:\Users\Petr Harapát\source\repos\produkty úkol\produkty úkol\bin\Debug\net6.0\produkty úkol.pdb
+C:\Users\Petr Harapát\source\repos\produkty úkol\produkty úkol\obj\Debug\net6.0\produkty úkol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petr Harapát\source\repos\produkty úkol\produkty úkol\obj\Debug\net6.0\produkty úkol.AssemblyInfoInputs.cache
+C:\Users\Petr Harapát\source\repos\produkty úkol\produkty úkol\obj\Debug\net6.0\produkty úkol.AssemblyInfo.cs
+C:\Users\Petr Harapát\source\repos\produkty úkol\produkty úkol\obj\Debug\net6.0\produkty úkol.csproj.CoreCompileInputs.cache
+C:\Users\Petr Harapát\source\repos\produkty úkol\produkty úkol\obj\Debug\net6.0\produkty úkol.dll
+C:\Users\Petr Harapát\source\repos\produkty úkol\produkty úkol\obj\Debug\net6.0\refint\produkty úkol.dll
+C:\Users\Petr Harapát\source\repos\produkty úkol\produkty úkol\obj\Debug\net6.0\produkty úkol.pdb
+C:\Users\Petr Harapát\source\repos\produkty úkol\produkty úkol\obj\Debug\net6.0\produkty úkol.genruntimeconfig.cache
+C:\Users\Petr Harapát\source\repos\produkty úkol\produkty úkol\obj\Debug\net6.0\ref\produkty úkol.dll
