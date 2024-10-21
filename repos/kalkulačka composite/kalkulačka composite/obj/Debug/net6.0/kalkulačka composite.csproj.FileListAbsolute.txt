@@ -1,0 +1,14 @@
+C:\Users\Petr Harapát\source\repos\kalkulačka composite\kalkulačka composite\bin\Debug\net6.0\kalkulačka composite.exe
+C:\Users\Petr Harapát\source\repos\kalkulačka composite\kalkulačka composite\bin\Debug\net6.0\kalkulačka composite.deps.json
+C:\Users\Petr Harapát\source\repos\kalkulačka composite\kalkulačka composite\bin\Debug\net6.0\kalkulačka composite.runtimeconfig.json
+C:\Users\Petr Harapát\source\repos\kalkulačka composite\kalkulačka composite\bin\Debug\net6.0\kalkulačka composite.dll
+C:\Users\Petr Harapát\source\repos\kalkulačka composite\kalkulačka composite\bin\Debug\net6.0\kalkulačka composite.pdb
+C:\Users\Petr Harapát\source\repos\kalkulačka composite\kalkulačka composite\obj\Debug\net6.0\kalkulačka composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petr Harapát\source\repos\kalkulačka composite\kalkulačka composite\obj\Debug\net6.0\kalkulačka composite.AssemblyInfoInputs.cache
+C:\Users\Petr Harapát\source\repos\kalkulačka composite\kalkulačka composite\obj\Debug\net6.0\kalkulačka composite.AssemblyInfo.cs
+C:\Users\Petr Harapát\source\repos\kalkulačka composite\kalkulačka composite\obj\Debug\net6.0\kalkulačka composite.csproj.CoreCompileInputs.cache
+C:\Users\Petr Harapát\source\repos\kalkulačka composite\kalkulačka composite\obj\Debug\net6.0\kalkulačka composite.dll
+C:\Users\Petr Harapát\source\repos\kalkulačka composite\kalkulačka composite\obj\Debug\net6.0\refint\kalkulačka composite.dll
+C:\Users\Petr Harapát\source\repos\kalkulačka composite\kalkulačka composite\obj\Debug\net6.0\kalkulačka composite.pdb
+C:\Users\Petr Harapát\source\repos\kalkulačka composite\kalkulačka composite\obj\Debug\net6.0\kalkulačka composite.genruntimeconfig.cache
+C:\Users\Petr Harapát\source\repos\kalkulačka composite\kalkulačka composite\obj\Debug\net6.0\ref\kalkulačka composite.dll
