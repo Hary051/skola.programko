@@ -1,11 +1,11 @@
 ﻿using System;
 
-interface IExpression
+internal interface IExpression
 {
     double Evaluate();
 }
 
-class Number : IExpression
+internal class Number : IExpression
 {
     private double value;
 

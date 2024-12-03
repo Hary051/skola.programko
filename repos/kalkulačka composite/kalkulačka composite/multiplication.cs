@@ -1,4 +1,4 @@
-﻿class Multiplication : IExpression
+﻿internal class Multiplication : IExpression
 {
     private IExpression left;
     private IExpression right;

@@ -1,4 +1,4 @@
-﻿class Addition : IExpression
+﻿internal class Addition : IExpression
 {
     private IExpression left;
     private IExpression right;
